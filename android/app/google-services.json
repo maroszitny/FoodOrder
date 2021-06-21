@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "317455480351",
+    "firebase_url": "https://fav-ordering.firebaseio.com",
+    "project_id": "fav-ordering",
+    "storage_bucket": "fav-ordering.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317455480351:android:359e09ba9d7a36c5c1472a",
+        "android_client_info": {
+          "package_name": "com.foodordersample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317455480351-0ltn6trsf19943u2ob0cv7jm2i38fa7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYajEYrEWjVgHmMVaTKGeq-6GJfcw-94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317455480351-0ltn6trsf19943u2ob0cv7jm2i38fa7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
